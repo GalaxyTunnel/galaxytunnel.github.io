@@ -1,16 +1,11 @@
-# ============================================
-# Galaxy High-Speed Hybrid Proxy IP List
-# Optimized for Myanmar ISP & Speed Boost
-# ============================================
-
-# --- Fast Anycast IPv4 (Ultra-Low Latency) ---
+# --- Fast Anycast IPv4 ---
 104.16.85.20
 104.17.123.45
 104.21.234.45
 172.64.155.1
 172.65.250.1
 
-# --- Fast IPv6 Clean IPs (ISP Throttling Bypass) ---
+# --- Fast IPv6 Clean IPs ---
 2606:4700:4700::1111
 2606:4700:4700::1001
 2606:4700::6810:5514
@@ -21,9 +16,5 @@
 # --- Clean Asia-Pacific CDN Domains ---
 icook.hk
 icook.tw
-www.visa.com
-www.visakorea.com
-www.visa.com.hk
-africa.visa.com
 cdn-b100.xn--b6gac.eu.org
 cdn.xn--b6gac.eu.org
