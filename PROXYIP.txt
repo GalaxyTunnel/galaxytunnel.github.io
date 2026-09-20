@@ -1,6 +1,4 @@
 # --- Clean Asia-Pacific CDN Domains ---
-cdn-b100.xn--b6gac.eu.org
-cdn.xn--b6gac.eu.org
 104.16.85.20
 104.17.123.45
 104.21.234.45
@@ -17,9 +15,6 @@ africa.visa.com
 www.visa.com
 www.visasoutheasteurope.com
 www.visakorea.com
-workers.cloudflare.com
-proxy.xxxxxxxx.tk
-cfip.xxxxxxxx.tk
 icook.hk
 icook.tw
 www.visa.com.hk
