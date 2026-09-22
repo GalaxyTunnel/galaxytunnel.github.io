@@ -1,7 +1,2 @@
 # --- Clean Asia-Pacific CDN Domains ---
-hk.blacknight.abrdns.com
-vc.blacknight.abrdns.com
-bun.blacknight.abrdns.com
-dig.blacknight.abrdns.com
-gog.blacknight.abrdns.com
-fast.blacknight.abrdns.com
+blacknight.abrdns.com
