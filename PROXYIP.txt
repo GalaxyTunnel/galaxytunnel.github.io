@@ -1,2 +1,20 @@
-# --- Clean Asia-Pacific CDN Domains ---
-blacknight.abrdns.com
+# Cloudflare IPs
+104.16.192.82
+104.16.24.84
+104.16.132.229
+104.16.133.229
+162.159.61.3
+162.159.137.65
+162.159.138.65
+162.159.137.105
+162.159.138.105
+162.159.36.5
+162.159.36.20
+172.64.41.3
+
+# Cloudflare Domains
+api.cloudflareclient.com
+cp.cloudflare.com
+connectivity.cloudflareclient.com
+zero-trust-client.cloudflareclient.com
+static.cloudflareinsights.com
