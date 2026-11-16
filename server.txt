@@ -1,0 +1,4 @@
+vless://7c7bedd0-fde6-4fa3-97c4-d68ff140a55b@olmd.ais.th:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=global.galaxy-tunnel.top&type=ws&allowInsecure=0&sni=global.galaxy-tunnel.top#GLOBAL%201.VLESS%20TLS%E2%93%82
+vless://8303af80-d4b8-48d5-8fa1-e9dec4deade2@imagedelivery.net:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=gogal.galaxy-tunnel.top&fp=random&type=ws&allowInsecure=0&sni=gogal.galaxy-tunnel.top#GLOBAL%202.VLESS%20TLS%E2%93%82
+trojan://17918b07-553b-45fd-ae0b-917219d1110c@galaxytunet.pages.dev:443?path=%2Fgalaxy-tunnel%3Fed%3D2048&security=tls&insecure=0&host=galaxytunet.pages.dev&type=ws&allowInsecure=0&sni=galaxytunet.pages.dev#GLOBAL%201.Trojan%20TLS%E2%93%82
+trojan://923183d6-1fb6-4407-80b4-da21968b8ee1@onetrust.com:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=cloudgtunnel.pages.dev&fp=android&type=ws&allowInsecure=0&sni=cloudgtunnel.pages.dev#GLOBAL%202.Trojan%20TLS%E2%93%82
